@@ -2,3 +2,6 @@ Google App Engine (GAE) with SpringMVC (including JSON and JSP)
 ---------------------------------------------------------------
 
 This project provides the starting point for a GAE project based on SpringMVC which has JSON and JSP support.
+
+This sample project can be seen running at http://arcotc-gae-samples.appspot.com/
+
